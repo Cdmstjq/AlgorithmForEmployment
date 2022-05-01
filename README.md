@@ -6,7 +6,9 @@ fork로 repo를 가져갑니다.
 
 본인 닉네임으로 폴더를 만들어서 pull request하면 됩니다
 
-닉네임 폴더 밑에는 백준(BOJ)인지, leetcode인지, 프로그래머스인지 알려줄 폴더가 필요합니다. ex) mingyuk99/BOJ/p1001.java
+닉네임 폴더 밑에는 백준(BOJ)인지, leetcode인지, 프로그래머스인지 알려줄 폴더가 필요합니다. 
+
+ex) mingyuk99/BOJ/p1001.java
 
 매주 한 문제의 공통 문제(난이도 ~골드3)를 solved.ac의 랜덤기능을 이용해서 선정한 뒤 풀어볼 것입니다. 
 선정된 문제는 issues 탭에서 확인할 수 있습니다.
